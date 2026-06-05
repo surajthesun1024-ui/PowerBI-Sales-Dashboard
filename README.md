@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard — Power BI
 
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](Dashboard_Overview.png)
 
 ## 📌 Overview
 An interactive sales performance dashboard built in Power BI using the 
